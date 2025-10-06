@@ -51,10 +51,13 @@ This project showcases elegant design, interactive animations, and clean, semant
 
 ---
 
-## 💬 Contact
+## 👨‍💻 Developer
 
-📧 **Email:** [Email Me](mailto:m.abdullahakram01@gmail.com)  
-🌍 **Website:** [Company Website](https://abdullah-akram-developer.github.io/Company-Site/)
+**Abdullah Akram**  
+📍 Pakistan  
+💻 Android & Web Developer  
+📧 [Email](mailto:m.abdullahakram01@gmail.com)  
+🔗 [GitHub](#) 
 
 ---
 
@@ -62,3 +65,7 @@ This project showcases elegant design, interactive animations, and clean, semant
 
 This project is for **personal or educational use only**.  
 © 2024 The Amazing Minds. All Rights Reserved.
+
+---
+
+⭐ **If you like this app, please give it a star on GitHub!**
