@@ -6,7 +6,7 @@ This project showcases elegant design, interactive animations, and clean, semant
 ---
 
 ## 🌐 Live Preview
-[Visit Website](#) *([Company Website](https://abdullah-akram-developer.github.io/Company-Site/))*
+**Visit Website:** [Company Website](https://abdullah-akram-developer.github.io/Company-Site/)
 
 ---
 
@@ -54,7 +54,7 @@ This project showcases elegant design, interactive animations, and clean, semant
 ## 💬 Contact
 
 📧 **Email:** [Email Me](mailto:m.abdullahakram01@gmail.com)  
-🌍 **Website:** [Company Website](#)
+🌍 **Website:** [Company Website](https://abdullah-akram-developer.github.io/Company-Site/)
 
 ---
 
